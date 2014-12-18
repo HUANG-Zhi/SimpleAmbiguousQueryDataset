@@ -1,0 +1,19 @@
+{
+
+"Other meanings": ["Puma (band), is a Norwegian experimental free impro jazz ensamble", "Puma (comics), a comic book character", "People United Means Action, a political action organization best known for its support of Hillary Clinton", "p53 upregulated modulator of apoptosis, a gene", "Public Use Micro Data Sample Area, a census subdivision of US states", "Paediatric-use marketing authorisation by the European Medicines Agency"],
+
+"Animals": ["Cougar, a large cat also known as a puma, mountain lion, or panther", "Puma (genus), the genus containing the cougar and the jaguarundi"],
+
+"Places": ["Lake Puma Yumco, a lake in Tibet", "Puma (Tanzanian ward), a ward in Tanzania", "Puma (village), a village on Teanu island (Vanikoro, Solomon Islands), where the language Puma (or Teanu) is spoken", "Pumapunku, an archeological site in Tiwanaku, Bolivia"],
+
+"People": ["Robert Puma, Imran series character and Grade-One Section's agent.", "Puma Swede, a Swedish pornographic actress", "T.J. Perkins, American professional wrestler", "Jos Luis Rodrguez (singer), Venezuelan singer and actor, nicknamed \"El Puma\"", "Jos Luis Carranza, Peruvian football player, nicknamed \"El Puma\"", "Joseph Puma, New York Music Video Director", "Michael Puma, American Rapper"],
+
+"Vehicles": ["Puma (car), a Brazilian brand of sports cars", "Puma (kit-car), an Italian brand of dune buggy and sports kit-car", "Personal Urban Mobility and Accessibility, a prototype electric vehicle designed by Segway and General Motors", "Ford Puma, a sports car"],
+
+"Companies": ["Puma SE, a German shoe and sportswear company,", "Puma Energy International, a Petrol distribution company, subsidiary of Trafigura Beheer B.V."],
+
+"Sports": ["Pumas de la UNAM, a Mexican professional football club", "Pumas (rugby team), a South African rugby team representing Mpumalanga province", "Argentina national rugby union team, nicknamed Los Pumas"],
+
+"Languages": ["Puma language, a language of Nepal", "Puma, a name sometimes used for the language Teanu (Solomon Islands)"],
+
+"Technology": ["AMD Puma, a mobile computing platform.", "Programmable Universal Machine for Assembly, an industrial robot arm", "Mac OS X v10.1, an operating system codenamed \"Puma\"", "Protected User Mode Audio, a DRM technology in Microsoft operating systems"]}
